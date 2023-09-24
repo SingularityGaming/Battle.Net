@@ -10,5 +10,7 @@ Home:
 ## in: Distrobox
 https://zihad.com.bd/posts/gaming-on-fedora-silverblue/
 
-## Problem
-https://forums.lutris.net/t/solved-lutris-stalls-whilst-installing-overwatch-battlenet/3755
+# Problem
+## Freezes at Arial Fonts
+sch: https://www.google.com/search?q=lutris+battle.net+Installing+Arial+font
+- https://forums.lutris.net/t/solved-lutris-stalls-whilst-installing-overwatch-battlenet/3755
