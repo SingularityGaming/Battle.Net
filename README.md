@@ -9,3 +9,6 @@ Home:
 
 ## in: Distrobox
 https://zihad.com.bd/posts/gaming-on-fedora-silverblue/
+
+## Problem
+https://forums.lutris.net/t/solved-lutris-stalls-whilst-installing-overwatch-battlenet/3755
