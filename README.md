@@ -1,5 +1,8 @@
 # Battle.Net
 # on: Lutris
+Home:
+- https://lutris.net/games/battlenet/
+
 ## Solution:
 - https://github.com/lutris/docs/blob/master/Battle.Net.md
 - https://github.com/lutris/lutris/wiki/Game:-Blizzard-App/01e21b1da15e956cdb8703168130527ec0094b32
