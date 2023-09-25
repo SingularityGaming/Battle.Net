@@ -2,9 +2,13 @@
 # in: Bottles!
 https://usebottles.com/app/#battlenet
 
+status: Works!
+
 # in: Lutris
 Home:
 - https://lutris.net/games/battlenet/
+
+status: Broken
 
 ## Solution:
 - https://github.com/lutris/docs/blob/master/Battle.Net.md
