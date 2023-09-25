@@ -13,6 +13,9 @@ https://zihad.com.bd/posts/gaming-on-fedora-silverblue/
 # Problem
 ## Freezes at Arial Fonts
 sch: https://www.google.com/search?q=lutris+battle.net+Installing+Arial+font
+
+Discuss:
+- https://www.reddit.com/r/SteamDeck/comments/10s900v/ubisoft_launcher_installation_stuck_on_installing/
 - https://forums.lutris.net/t/solved-lutris-stalls-whilst-installing-overwatch-battlenet/3755
 - https://forums.lutris.net/t/and-again-battle-net/15187
 
