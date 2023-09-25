@@ -15,3 +15,6 @@ https://zihad.com.bd/posts/gaming-on-fedora-silverblue/
 sch: https://www.google.com/search?q=lutris+battle.net+Installing+Arial+font
 - https://forums.lutris.net/t/solved-lutris-stalls-whilst-installing-overwatch-battlenet/3755
 - https://forums.lutris.net/t/and-again-battle-net/15187
+
+Solution:
+- https://askubuntu.com/questions/651441/how-to-install-arial-font-and-other-windows-fonts-in-ubuntu
