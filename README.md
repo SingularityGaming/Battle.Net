@@ -1,5 +1,8 @@
 # Battle.Net
-# on: Lutris
+# in: Bottles!
+https://usebottles.com/app/#battlenet
+
+# in: Lutris
 Home:
 - https://lutris.net/games/battlenet/
 
