@@ -1,0 +1,6 @@
+bottle_name: Blizzard
+drive_c: "~/.var/app/com.usebottles.bottles/data/bottles/bottles/{{ bottle_name }}/drive_c/"
+path: 
+encoded_path: "/var/home/{{ ansible_env.USER }}/.var/app/com.usebottles.bottles/data/bottles/bottles/Blizzard/drive_c/Program\ Files\ \(x86\)/StarCraft\ II"
+
+test.rsync: "rsync -a --progress 10.0.1.116:/var/home/me/.var/app/com.usebottles.bottles/data/bottles/bottles/{{ bottle_name }}/drive_c/Program\ Files\ \(x86\)/StarCraft\ II /var/home/me/.var/app/com.usebottles.bottles/data/bottles/bottles/{{ bottle_name }}/drive_c/Program\ Files\ \(x86\)/"
