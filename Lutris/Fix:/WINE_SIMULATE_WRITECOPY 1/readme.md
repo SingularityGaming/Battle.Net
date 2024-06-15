@@ -1,4 +1,8 @@
 # Fix: WINE_SIMULATE_WRITECOPY 1
+
+# Solution:
+- https://us.forums.blizzard.com/en/blizzard/t/latest-update-breaks-battlenet-launcher-on-linux/48424
+
 >Nov '23
 >Current fix:
 >Add `WINE_SIMULATE_WRITECOPY 1` as an environment variable on Lutris->system options tab
