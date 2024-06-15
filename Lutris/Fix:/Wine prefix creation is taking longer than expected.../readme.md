@@ -8,3 +8,17 @@ sch: https://www.google.com/search?q=Lutris+Wine+prefix+creation+is+taking+longe
 >https://youtu.be/gVuabEckMMA
 
 - https://www.reddit.com/r/linux_gaming/comments/u5mvbw/lutris_stuck_on_creating_wine_prefix_when_trying/
+
+>First install these (you will need these due to running a LTS release of Ubuntu).
+>
+>https://github.com/lutris/docs/blob/master/InstallingDrivers.md
+>
+>https://github.com/lutris/docs/blob/master/WineDependencies.md]
+>
+>https://github.com/lutris/docs/blob/master/Origin.md
+>
+>https://lutris.net/downloads/
+>
+>Once done, launch Lutris, and sign into the Origin tab on the left hand side.
+>
+>Your games should now appear, click install to install them.
